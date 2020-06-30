@@ -1,0 +1,43 @@
+body {
+  width: 1008;
+  padding: 5%;
+}
+
+header {
+  margin-bottom: 20px;
+}
+header div {
+  margin: 10px;
+}
+header img {
+  float: left;
+  margin: 5px;
+  margin-left: 0;
+  position: absolute;
+}
+
+header div nav ul li {
+  display: inline-block;
+  margin: 10px;
+
+  padding-top: 15px;
+}
+
+div img {
+  display: inline-block;
+}
+img {
+  margin: 10px;
+}
+div {
+  margin: 0;
+  padding-left: 0;
+}
+
+footer {
+  margin: 10px;
+  display: block;
+  height: 70px;
+
+  background-color: grey;
+}
